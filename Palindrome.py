@@ -20,6 +20,6 @@ def main():
             print("False")
         print()
 
-# Chạy chương trình chính
+# Run
 if __name__ == "__main__":
     main()
